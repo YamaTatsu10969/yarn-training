@@ -20,4 +20,5 @@ function multi(numbers) {
   return result;
 }
 
+/// add と multi のメソッドを書く
 module.exports = { add, multi };
